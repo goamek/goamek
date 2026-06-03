@@ -1,5 +1,6 @@
-## Hello, my name is Garrett Oamek, and I am a student at UW-Madison.
+## Hello!
 
+My name is Garrett Oamek, and I am a student at UW-Madison.
 I am working towards a BS in Computer Sciences and a Certificate (Minor) in Game Design <br/>
 I am passionate about using software development and game design as vehicles for meaningful systemic, socioeconomic, and community change <br/>
 In my free time outside of work and school, I spend my time working on Game Design/Development projects to add to my portfolio. I am currently busy working on a 2.5D JRPG project, which is planned to be a ~30-minute-long demo that will be released by the end of the summer! <br/>
