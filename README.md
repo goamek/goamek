@@ -1,10 +1,11 @@
 ## Hello!
 
-My name is Garrett Oamek, and I am a student at UW-Madison.
-I am working towards a BS in Computer Sciences and a Certificate (Minor) in Game Design <br/>
-I am passionate about using software development and game design as vehicles for meaningful systemic, socioeconomic, and community change <br/>
-In my free time outside of work and school, I spend my time working on Game Design/Development projects to add to my portfolio. I am currently busy working on a 2.5D JRPG project, which is planned to be a ~30-minute-long demo that will be released by the end of the summer! <br/>
-Current portfolio: https://www.behance.net/garrettoamek
+My name is Garrett Oamek, and I am a Computer Science senior at UW–Madison (Game Design minor/certificate), building toward a Junior Game Developer or Designer role. Currently developing For Justice: Astryn, a 2.5D JRPG in Godot featuring a utility-based AI system for boss behavior. Participated in Game Off 2025, a team game jam, was a member of UW–Madison's Playing For Real game design club in Fall 2023, and am a member of the new Game Jam Club starting in Fall 2026. Two years of professional software engineering experience at QOC Innovations, working in enterprise systems development and API integration.  
+<br/>
+My career goals focus on using game development and/or software development to promote positive socioeconomic and systemic change in communities worldwide.
+<br/>
+<br/>
+Portfolio: https://garrettoamek.itch.io/
 
 <!--
 **goamek/goamek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
