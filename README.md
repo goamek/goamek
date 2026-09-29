@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Garrett Oamek, and I am a Computer Science senior at UW–Madison (Game Design minor/certificate), building toward a Junior Game Developer or Designer role. Currently developing For Justice: Astryn, a 2.5D JRPG in Godot featuring a utility-based AI system for boss behavior. Participated in Game Off 2025, a team game jam, was a member of UW–Madison's Playing For Real game design club in Fall 2023, and am a member of the new Game Jam Club starting in Fall 2026. Two years of professional software engineering experience at QOC Innovations, working in enterprise systems development and API integration.  
+My name is Garrett Oamek, and I am a Computer Science senior at UW–Madison (Game Design minor/certificate), building toward a Junior Game/Software Developer or Game Designer role. Just finished developing For Justice: Astryn, a 2.5D JRPG in Godot featuring a utility-based AI system for boss behavior. Participated in Game Off 2025, a team game jam, was a member of UW–Madison's Playing For Real game design club in Fall 2023, and am a member of the new Game Jam Club starting in Fall 2026. Two years of professional software engineering experience at QOC Innovations, working in enterprise systems development and API integration.  
 <br/>
 My career goals focus on using game development and/or software development to promote positive socioeconomic and systemic change in communities worldwide.
 <br/>
